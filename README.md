@@ -1,10 +1,32 @@
 </div>
 <div align="center">
   <h1>
-    Hello</br>My name is Joseph (Ziyu) Lin
+    Hello</br>My name is Joseph (Ziyu) Lin</br>     
+    
+  </p id="badges" align="center">
+    <a href="https://www.linkedin.com/in/lin-ziyu/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/joseph_lzy/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+
+  </p>
 </h1>
+  
+
+
 </div>
 
+### About me:
+- Computer Science Student at The Pennsylvania State University - University Park
+- My Personal Website is [Here](https://sites.psu.edu/ziyulin/) (Under Construction)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/lin-ziyu/)
+
+### My Github Stats:
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbl5332&layout=compact&theme=dark&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 - 👋 Hi, I’m @zbl5332
 - 👀 I’m interested in ...
