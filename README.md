@@ -1,7 +1,7 @@
 </div>
 <div align="center">
   <h1>
-    Hello</br>My name is Joseph (Ziyu) Lin</br>     
+    Hi!</br>My name is Joseph (Ziyu) Lin</br>     
     
   </p id="badges" align="center">
     <a href="https://www.linkedin.com/in/lin-ziyu/">
