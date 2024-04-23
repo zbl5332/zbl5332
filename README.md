@@ -26,7 +26,7 @@
 ### My Github Stats:
 
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbl5332&layout=compact&theme=dark&card_width=446)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zbl5332&layout=compact&theme=dark&card_width=447)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 - 👋 Hi, I’m @zbl5332
 - 👀 I’m interested in ...
