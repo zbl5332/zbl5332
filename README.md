@@ -19,7 +19,7 @@
 </div>
 
 ### About me:
-- Computer Science Student at The Pennsylvania State University - University Park
+- Computer Science with Mathematics minor at The Pennsylvania State University - University Park
 - My Personal Website is [Here](https://sites.psu.edu/ziyulin/) (Under Construction)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/lin-ziyu/)
 
